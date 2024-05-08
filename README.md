@@ -1,5 +1,5 @@
 # Blog-Generation
-<img src= "Blog generation.jpg">
+<img src= "Blog generation.jpg" >
 
 # How to run?
 ### STEPS:

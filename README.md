@@ -1,1 +1,2 @@
-# Blob-Generation
+# Blog-Generation
+<img = "Blog generation.png">

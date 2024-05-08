@@ -7,7 +7,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Sayuksh/Blob-generationeneration
+https://github.com/Sayuksh/Blob-generationen
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -79,7 +79,7 @@ Email: ayushaditya2602@gmail
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 551134410962.dkr.ecr.us-east-1.amazonaws.com/text-summarization
+    - Save the URI: 551134410962.dkr.ecr.us-east-1.amazonaws.com/blog-generation
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
